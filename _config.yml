@@ -1,0 +1,28 @@
+name: paulinserra
+favicon: null
+layout_spectrum: 0.26341373170726
+typography_spectrum: 0.36398943327367306
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6887474644463509
+  lightness: 0.009530208772048354
+  saturation: 0.8618606224190444
+  rhythmicContrast: 0.1026500528678298
+purpose: []
